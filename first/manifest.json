@@ -1,0 +1,73 @@
+{
+  "name": "ThemeBeta.com",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 2,
+  "theme": {
+    "images": {
+      "theme_frame": "images\/theme_frame.png",
+      "theme_toolbar": "images\/theme_toolbar.png",
+      "theme_tab_background": "images\/theme_tab_background.png",
+      "theme_ntp_background": "images\/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+        6,
+        35,
+        75
+      ],
+      "toolbar": [
+        24,
+        54,
+        79
+      ],
+      "tab_text": [
+        186,
+        225,
+        232
+      ],
+      "tab_background_text": [
+        24,
+        54,
+        79
+      ],
+      "bookmark_text": [
+        186,
+        225,
+        232
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "ntp_text": [
+        186,
+        225,
+        232
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "button_background": [
+        6,
+        35,
+        75,
+        1
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.56,
+        0.63,
+        0.81
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
